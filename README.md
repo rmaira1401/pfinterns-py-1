@@ -1,4 +1,4 @@
-# Python Generator
+# Random Python Generator
 Create a password generator tool using Python. The tool will allow users to specify
 password criteria such as length and character set and generate random passwords
 accordingly. The completed project should include a command-line or GUI interface
